@@ -1,0 +1,14 @@
+body {
+    background-image: url("hOye.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#mycanvas {
+    border: 13px ridge slateblue;
+    background-color: rgb(255, 255, 255);
+}
